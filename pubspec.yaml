@@ -64,7 +64,13 @@ flutter:
     - assets/images/logo4.jpg
     - assets/images/logo5.jpg
     - assets/images/spiderman.jpg
-  
+    - assets/images/logo6.jpg
+    - assets/images/logo7.jpg
+    - assets/images/logo8.jpg
+    - assets/images/logo9.jpg
+    - assets/images/logo10.jpg
+
+
   fonts:
     - family: Caveat
       fonts:
